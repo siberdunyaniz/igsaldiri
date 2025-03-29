@@ -1,8 +1,8 @@
-# 🌟 igsald-r- | Instagram Rapor & Brute Force Toolu 🌟
+# 🌟 igsaldiri | Instagram Rapor & Brute Force Toolu 🌟
 
 ⚠️ **UYARI:** Bu araç **TAMAMEN EĞİTİM AMAÇLI** geliştirilmiştir! 🎓 Siber güvenlik ve ağ testi konularında öğrenim için tasarlandı. 🚨 Yasal olmayan kullanım kesinlikle yasaktır, tüm sorumluluk kullanıcıdadır! 🚫
 
-`igsald-r-`, Instagram hesaplarını raporlama ve brute force攻击 (kaba kuvvet saldırısı) işlemleri için geliştirilmiş bir Python tabanlı araçtır. Hem **Kali Linux** 🐉 hem de **Termux** 📱 üzerinde çalışır. 💻
+`igsaldiri`, Instagram hesaplarını raporlama ve brute force攻击 (kaba kuvvet saldırısı) işlemleri için geliştirilmiş bir Python tabanlı araçtır. Hem **Kali Linux** 🐉 hem de **Termux** 📱 üzerinde çalışır. 💻
 
 ## ✨ Özellikler ✨
 - 🚨 **Raporlama:** Instagram gönderilerini veya profillerini toplu raporlama (eğitim testi için) 📬
